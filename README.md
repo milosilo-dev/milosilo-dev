@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [S-BOS](https://github.com/milosilo-dev/S-BOS)
 
-- 🌱 I’m currently learning **UEFI Development**
+- 🌱 I’m currently building **6502 emulator**
 
 - 👨‍💻 All of my projects are available at [http://thesecretdev.co.uk](http://thesecretdev.co.uk)
-
-- 💬 Ask me about **Computers**
 
 - 📫 How to reach me **@_bublu on Discord**
 
