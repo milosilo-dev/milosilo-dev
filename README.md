@@ -34,9 +34,8 @@ A VM platform built on KVM focused on:
 ## 🛠️ Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge)
 
 ### Systems / Tools
@@ -54,15 +53,13 @@ A VM platform built on KVM focused on:
 
 ## 📊 GitHub Stats
 
-![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=milosilo-dev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milosilo-dev&layout=compact&theme=tokyonight)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=milosilo-dev&theme=nord&hide=hours%2Cavg%2Cgrade%2Ccommits%2Cprs%2Cstars%2Cissues%2Cfollowers)
 
 ---
 
 ## 📈 Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=milosilo-dev&theme=tokyonight)
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=milosilo-dev&theme=nord&days=30&width=320&height=80&hide_border=true)
 
 ---
 
