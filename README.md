@@ -1,20 +1,77 @@
-<h1 align="center">Hi 👋, I'm Miles</h1>
-<h3 align="center">A student who works on a whole manor of different projects.</h3>
+# Hi, I'm Miles 👋
 
-- 🔭 I’m currently working on [S-BOS](https://github.com/milosilo-dev/S-BOS)
+> 16 year old systems developer focused on operating systems, virtualisation, and low-level computing.
 
-- 🌱 I’m currently building **6502 emulator**
+---
 
-- 👨‍💻 All of my projects are available at [http://thesecretdev.co.uk](http://thesecretdev.co.uk)
+## 🧠 About Me
 
-- 📫 How to reach me **@_bublu on Discord**
+I build systems that sit close to the hardware — from bootloaders and kernels to VM platforms.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/single_a_games" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="single_a_games" height="30" width="40" /></a>
-</p>
+Currently exploring:
+- ⚙️ Virtual machine that will boot linux  
+- 🧩 OS development (UEFI, x86_64, protected/long mode transitions)  
+- 🚀 Ferrum — a KVM-based VM platform
+- 🤖 Embedded systems & robotics
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milosilo-dev&show_icons=true&locale=en&layout=compact" alt="milosilo-dev" /></p>
+## 🚀 Projects
+
+### 🖥️ Ferrum
+A VM platform built on KVM focused on:
+- Pre-booted system images
+- Fast spin-up test environments
+- Container-like developer workflow, but full OS control
+
+### 🧬 OS / Boot Projects
+- Custom bootloaders (BIOS + UEFI exploration)
+- x86 protected → long mode transitions
+- Bare-metal experimentation in Rust and C
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge)
+
+### Systems / Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![KVM](https://img.shields.io/badge/KVM-FF6F00?style=for-the-badge)
+![QEMU](https://img.shields.io/badge/QEMU-FF6F00?style=for-the-badge)
+![UEFI](https://img.shields.io/badge/UEFI-008000?style=for-the-badge)
+
+### Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge)
+![GCC](https://img.shields.io/badge/GCC-8C001A?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=milosilo-dev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milosilo-dev&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=milosilo-dev&theme=tokyonight)
+
+---
+
+## 🧪 Interests
+
+- Operating systems design
+- Virtualisation internals (KVM, hypervisors)
+- Boot process engineering (BIOS/UEFI)
+- Performance-critical systems
+- Hardware/software boundaries
+
+---
