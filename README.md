@@ -1,36 +1,5 @@
 # Hi, I'm Miles 👋
 
-> 16 year old systems developer focused on operating systems, virtualisation, and low-level computing.
-
----
-
-## 🧠 About Me
-
-I build systems that sit close to the hardware — from bootloaders and kernels to VM platforms.
-
-Currently exploring:
-- ⚙️ Virtual machine that will boot linux  
-- 🧩 OS development (UEFI, x86_64, protected/long mode transitions)  
-- 🚀 Ferrum — a KVM-based VM platform
-- 🤖 Embedded systems & robotics
-
----
-
-## 🚀 Projects
-
-### 🖥️ Ferrum
-A VM platform built on KVM focused on:
-- Pre-booted system images
-- Fast spin-up test environments
-- Container-like developer workflow, but full OS control
-
-### 🧬 OS / Boot Projects
-- Custom bootloaders (BIOS + UEFI exploration)
-- x86 protected → long mode transitions
-- Bare-metal experimentation in Rust and C
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
